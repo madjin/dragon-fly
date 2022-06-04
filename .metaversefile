@@ -1,0 +1,18 @@
+{
+  "name": "shima",
+  "start_url": "animated2.glb",
+  "components": [
+    {
+      "key": "look",
+      "value": {
+        "rootBone": "Bone"
+      }
+    },
+    {
+      "key": "pet",
+      "value": {
+        "flyAnimation": "metashimaAction.002"
+      }
+    }
+  ]
+}
